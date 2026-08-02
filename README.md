@@ -1,12 +1,37 @@
 # DataCo Smart Supply Chain — Analytics & Streamlit App
 
+---
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-673AB7?style=for-the-badge)
+![Supply Chain Analytics](https://img.shields.io/badge/Supply%20Chain%20Analytics-1565C0?style=for-the-badge)
+![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-D32F2F?style=for-the-badge)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-FF9800?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+<p align="center">
+
 An end-to-end Supply Chain Analytics project: data cleaning, EDA, SQL KPI
 extraction, and two predictive models (late delivery risk, fraud risk),
 deployed as an interactive **Streamlit** app.
+</p>
+
 
 ### Live app pages:** Overview → EDA → Late Delivery Prediction → Fraud Detection
 
 #### Live app 👉 [Open on Streamlit](https://dataco-supply-chain-app-2k7ehatnvvnx66fycyedp3.streamlit.app/)**
+
 
 ---
 
