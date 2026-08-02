@@ -4,7 +4,9 @@ An end-to-end Supply Chain Analytics project: data cleaning, EDA, SQL KPI
 extraction, and two predictive models (late delivery risk, fraud risk),
 deployed as an interactive **Streamlit** app.
 
-**Live app pages:** Overview → EDA → Late Delivery Prediction → Fraud Detection
+### Live app pages:** Overview → EDA → Late Delivery Prediction → Fraud Detection
+
+####Live app 👉 [Open on Streamlit](https://dataco-supply-chain-app-2k7ehatnvvnx66fycyedp3.streamlit.app/)**
 
 ---
 
