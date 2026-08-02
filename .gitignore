@@ -1,0 +1,33 @@
+# Raw data (large, not needed for the deployed app — see data/processed_supply_chain.csv)
+data/raw/*
+!data/raw/.gitkeep
+*.csv.orig
+DataCoSupplyChainDataset.csv
+dataco_cleaned.csv
+
+# Note: data/processed_supply_chain.csv and models/*.pkl ARE committed on
+# purpose — Streamlit Community Cloud has no training step, so the app needs
+# these artifacts to already be in the repo.
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+supply_chain.db
