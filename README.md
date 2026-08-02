@@ -6,7 +6,7 @@ deployed as an interactive **Streamlit** app.
 
 ### Live app pages:** Overview → EDA → Late Delivery Prediction → Fraud Detection
 
-####Live app 👉 [Open on Streamlit](https://dataco-supply-chain-app-2k7ehatnvvnx66fycyedp3.streamlit.app/)**
+#### Live app 👉 [Open on Streamlit](https://dataco-supply-chain-app-2k7ehatnvvnx66fycyedp3.streamlit.app/)**
 
 ---
 
@@ -135,3 +135,29 @@ are in `models/metrics.json` and rendered live on the app's prediction pages.
 ## 📜 License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+# 👨‍💻 Author
+
+## Kartik Kachwahe
+
+**Aspiring Data Scientist | Data Analyst | Machine Learning | SQL | Power BI | Python**
+
+📧 Email: kartikkachwahe25@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/kartikkachwahe021
+
+💻 GitHub: https://github.com/KartikKachwahe
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving the repository a star.
+
+Your support motivates future projects and helps others discover this work.
+
+---
+
+**Thank you for visiting this repository ❤️**
