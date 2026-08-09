@@ -4,7 +4,7 @@ from nbformat.v4 import new_notebook, new_markdown_cell, new_code_cell
 NB_DIR = "notebooks/"
 
 nb1 = nbformat.read(NB_DIR + "01_eda_data_cleaning.ipynb", as_version=4)
-nb2 = nbformat.read(NB_DIR + "02_sql_kpi_dashboard.ipynb", as_version=4)
+nb2 = nbformat.read(NB_DIR + "02_sql_kpi_dashboard.ipynb", as_version=4) 
 nb3 = nbformat.read(NB_DIR + "03_predictive_modeling.ipynb", as_version=4)
 
 merged = new_notebook()
