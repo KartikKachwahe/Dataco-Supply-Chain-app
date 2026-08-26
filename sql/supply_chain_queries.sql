@@ -6,7 +6,7 @@
 
 
 -- ============================================================
--- KPI 1: On-Time Delivery Rate by Shipping Mode
+-- KPI 1: On-Time Delivery Rate by Shipping Mode 
 -- ============================================================
 SELECT
     shipping_mode,
