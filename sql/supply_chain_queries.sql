@@ -8,7 +8,7 @@
 -- ============================================================
 -- KPI 1: On-Time Delivery Rate by Shipping Mode 
 -- ============================================================ 
-SELECT
+SELECT 
     shipping_mode,
     COUNT(*) AS total_orders,
     SUM(CASE WHEN late_delivery_risk = 0 THEN 1 ELSE 0 END) AS on_time_orders,
