@@ -11,7 +11,7 @@ st.set_page_config(
     page_icon="🚛",
     layout="wide",
 )
-inject_css()
+inject_css() 
 
 page_header(
     "DataCo Global · Live Manifest",
